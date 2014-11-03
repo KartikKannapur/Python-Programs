@@ -23,4 +23,4 @@ def circular_permutation():
 
         permute(arr)
 
-        
+circular_permutation()
